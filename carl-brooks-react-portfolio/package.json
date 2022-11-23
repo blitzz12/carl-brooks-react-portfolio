@@ -26,6 +26,8 @@
     "sass",
     "css module"
   ],
+  "type": "commonjs",
+
   "author": "Carl Brooks",
   "license": "MIT",
   "bugs": {
