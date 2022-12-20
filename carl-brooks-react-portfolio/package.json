@@ -106,6 +106,10 @@
 
     "css-loader": "^1.0.0",
 
+    "draft-js": "^0.11.7",
+
+    "draftjs-to-html": "^0.9.1",
+
     "eslint": "^4.2.0",
 
     "eslint-loader": "^1.9.0",
@@ -120,6 +124,8 @@
 
     "html-loader": "^0.5.5",
 
+    "html-to-draftjs": "^1.5.0",
+
     "html-webpack-plugin": "^3.2.0",
 
     "luxon": "^3.1.0",
@@ -132,7 +138,11 @@
 
     "react-dom": "16.13.1",
 
+    "react-draft-wysiwyg": "^1.15.0",
+
     "react-dropzone-component": "^3.2.0",
+
+    "react-html-parser": "^2.0.2",
 
     "react-messaging": "^0.1.2",
 
@@ -146,6 +156,8 @@
 
     "react-router-dom": "5.1.2",
 
+    "react-truncate": "^2.4.0",
+
     "redux": "4.0.5",
 
     "sass": "^1.56.0",
@@ -153,6 +165,8 @@
     "sass-loader": "^7.1.0",
 
     "save": "^2.9.0",
+
+    "striptags": "^3.2.0",
 
     "style-loader": "^0.21.0",
 
